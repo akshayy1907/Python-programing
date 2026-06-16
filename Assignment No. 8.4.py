@@ -1,0 +1,6 @@
+a = (1,2,4,5,6,7,8)
+print(a)
+b = list(a)
+b.append(9)
+c = tuple(b)
+print(c)

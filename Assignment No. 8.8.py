@@ -1,0 +1,6 @@
+b= set()
+b.add(7)
+b.add(786)
+b.add("NPTEL")
+b.add("Black")
+print(b)
